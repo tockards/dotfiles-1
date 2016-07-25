@@ -12,7 +12,7 @@ install
 -------
 Get the dotfiles with:
 ```
-    git clone https://github.com/theunsa/dotfiles ~/dotfiles
+    git clone https://github.com/tockards/dotfiles-1 ~/dotfiles
 ```
 
 To install:
